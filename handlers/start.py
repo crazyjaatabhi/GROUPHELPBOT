@@ -1,9 +1,9 @@
 # ============================================================
 #Group Manager Bot
-# Author: LearningBotsOfficial (https://github.com/LearningBotsOfficial) 
-# Support: https://t.me/LearningBotsCommunity
-# Channel: https://t.me/learning_bots
-# YouTube: https://youtube.com/@learning_bots
+# Author: GODFATHER (https://t.me/friends_chatting_circle_pro) 
+# Support: https://t.me/friends_chatting_circle_pro
+# Channel: https://t.me/friends_chatting_circle_pro
+# YouTube: https://t.me/friends_chatting_circle_pro
 # License: Open-source (keep credits, no resale)
 # ============================================================
 
@@ -27,7 +27,7 @@ def register_handlers(app: Client):
 
    ✨ Hello {user}! ✨
 
-👋 I am Nomad 🤖 
+👋 hey I am ˹𝐆 𝐎 𝐃 𝐅 𝚲 𝚻 𝚮 𝚬 𝚪˼ ⁬ 🤖 
 
 Highlights:
 ─────────────────────────────
